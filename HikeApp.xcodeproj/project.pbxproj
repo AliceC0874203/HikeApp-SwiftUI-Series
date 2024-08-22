@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		993FE7472C76BE6C006B1FBF /* HikeAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 993FE7462C76BE6C006B1FBF /* HikeAppApp.swift */; };
+		993FE7472C76BE6C006B1FBF /* HikeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 993FE7462C76BE6C006B1FBF /* HikeApp.swift */; };
 		993FE7492C76BE6C006B1FBF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 993FE7482C76BE6C006B1FBF /* ContentView.swift */; };
 		993FE74B2C76BE6E006B1FBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 993FE74A2C76BE6E006B1FBF /* Assets.xcassets */; };
 		993FE74E2C76BE6E006B1FBF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 993FE74D2C76BE6E006B1FBF /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		993FE7432C76BE6C006B1FBF /* HikeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HikeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		993FE7462C76BE6C006B1FBF /* HikeAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeAppApp.swift; sourceTree = "<group>"; };
+		993FE7462C76BE6C006B1FBF /* HikeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeApp.swift; sourceTree = "<group>"; };
 		993FE7482C76BE6C006B1FBF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		993FE74A2C76BE6E006B1FBF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		993FE74D2C76BE6E006B1FBF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		993FE7452C76BE6C006B1FBF /* HikeApp */ = {
 			isa = PBXGroup;
 			children = (
-				993FE7462C76BE6C006B1FBF /* HikeAppApp.swift */,
+				993FE7462C76BE6C006B1FBF /* HikeApp.swift */,
 				993FE7482C76BE6C006B1FBF /* ContentView.swift */,
 				993FE74A2C76BE6E006B1FBF /* Assets.xcassets */,
 				993FE74C2C76BE6E006B1FBF /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				993FE7492C76BE6C006B1FBF /* ContentView.swift in Sources */,
-				993FE7472C76BE6C006B1FBF /* HikeAppApp.swift in Sources */,
+				993FE7472C76BE6C006B1FBF /* HikeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
